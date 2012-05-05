@@ -1,0 +1,29 @@
+{
+  "name": "surname",
+  "description": "Utility to provide surname.",
+  "version": "0.0.0",
+  "keywords": [
+    "name",
+    "surname",
+    "generator"
+  ],
+  "author": "Colin Ross <colin@colinscape.com> (http://colinscape.com)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/colinscape/male.git"
+  },
+  "directories": {
+    "lib": "./lib",
+    "data": "./data"
+  },
+  "bin": {
+    "surname": "./lib/surname.js"
+  },
+  "main": "./lib/surname.js",
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {}
+}
