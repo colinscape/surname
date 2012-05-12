@@ -1,4 +1,4 @@
 surname
 =======
 
-Utility to provide male forename.
+Utility to provide surname.
